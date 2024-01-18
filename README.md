@@ -1,2 +1,0 @@
-# MovieDataBase
-Replica of imdb
